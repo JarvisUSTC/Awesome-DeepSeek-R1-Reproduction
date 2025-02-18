@@ -36,6 +36,9 @@ A curated collection of cutting-edge projects, benchmarks, and research papers d
 - **[K1.5](https://arxiv.org/abs/2501.12599)**  
   Presents the training recipe and system design of Kimi K1.5, a multimodal LLM trained with reinforcement learning, emphasizing long-context scaling and improved policy optimization.
 
+- **[X-R1](https://github.com/dhcode-cpp/X-R1)**  
+Aims to build an easy-to-use, low-cost training framework based on end-to-end reinforcement learning to accelerate the development of Scaling Post-Training. Inspired by DeepSeek-R1 and open-r1, X-R1 focuses on minimal-cost training for 0.5B R1-Zero models, supporting LoRA and larger models up to 32B parameters.
+
 ---
 
 ## 🖼️ MLLM (Multimodal Large Language Model) Projects
@@ -92,6 +95,14 @@ A curated collection of cutting-edge projects, benchmarks, and research papers d
 - **[Scaling up Test-Time Compute with Latent Reasoning](http://arxiv.org/abs/2502.05171)**  
   Proposes a recurrent-depth approach to enhance test-time reasoning efficiency, allowing scalable, implicit latent-space reasoning.
 
+- **[MM-RLHF](https://arxiv.org/pdf/2502.10391)**
+  Introduces MM-RLHF, a dataset containing 120k fine-grained, human-annotated preference comparison pairs, and proposes key innovations to improve reward models and alignment algorithms.
+
+- **[ReasonFlux](https://arxiv.org/pdf/2502.06772v1)**
+Introduces ReasonFlux, a hierarchical LLM reasoning framework that optimizes the reasoning search space through structured thought templates, achieving state-of-the-art performance in mathematical reasoning benchmarks.
+
+- **[The Danger of Overthinking: Examining the Reasoning-Action Dilemma in Agentic Tasks](https://github.com/AlexCuadron/Overthinking)**
+Introduces Overthinking, a systematic evaluation framework that automatically rates overthinking behavior in large language models, focusing on detecting when models prefer their internal reasoning chain over interacting with the environment.
 ---
 
 ## 🌟 About Vision2Mind
