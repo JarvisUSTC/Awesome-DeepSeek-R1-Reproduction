@@ -12,6 +12,7 @@ A curated collection of cutting-edge projects, benchmarks, and research papers d
 - [System Optimization](#system-optimization)
 - [SFT Methods](#sft-methods)
 - [Research Papers](#research-papers)
+- [About Vision2Mind](#about-vision2mind)
 
 ---
 
@@ -93,5 +94,19 @@ A curated collection of cutting-edge projects, benchmarks, and research papers d
 
 ---
 
-We warmly invite you to **explore**, **contribute**, and **collaborate** in advancing the frontier of DeepSeek R1 technology. Feel free to submit issues or pull requests and help shape the future of reasoning in language and multimodal models!
+## 🌟 About Vision2Mind
 
+**Vision2Mind** is a pioneering startup dedicated to advancing the frontiers of artificial intelligence, with a particular focus on vision-language models and multimodal reasoning. Our mission is to develop cutting-edge technologies that bridge the gap between human cognition and artificial intelligence, enabling more intuitive and effective human-machine interactions.
+
+At Vision2Mind, we are committed to:
+
+- **Innovation**: Pushing the boundaries of AI research to create novel solutions for complex problems.
+- **Excellence**: Delivering high-quality, reliable, and scalable AI models and applications.
+- **Collaboration**: Working with the global AI community to foster open-source development and knowledge sharing.
+- **Impact**: Making a tangible difference in industries such as healthcare, education, and finance through AI-driven innovations.
+
+We invite researchers, developers, and enthusiasts to join us in our journey to transform the AI landscape. For more information, visit our website: [https://vision2mind.wegic.app/home](https://vision2mind.wegic.app/home).
+
+---
+
+We warmly invite you to **explore**, **contribute**, and **collaborate** in advancing the frontier of DeepSeek R1 technology. Feel free to submit issues or pull requests and help shape the future of reasoning in language and multimodal models!
