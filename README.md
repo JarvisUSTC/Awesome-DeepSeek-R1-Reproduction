@@ -14,7 +14,6 @@ A curated collection of cutting-edge projects, benchmarks, and research papers d
   - [⚙️ System Optimization](#️-system-optimization)
   - [🔧 SFT Methods](#-sft-methods)
   - [📚 Research Papers](#-research-papers)
-  - [Introduces Overthinking, a systematic evaluation framework that automatically rates overthinking behavior in large language models, focusing on detecting when models prefer their internal reasoning chain over interacting with the environment.](#introduces-overthinking-a-systematic-evaluation-framework-that-automatically-rates-overthinking-behavior-in-large-language-models-focusing-on-detecting-when-models-prefer-their-internal-reasoning-chain-over-interacting-with-the-environment)
   - [🌟 About Vision2Mind](#-about-vision2mind)
 
 ---
