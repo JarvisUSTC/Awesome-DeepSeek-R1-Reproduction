@@ -71,6 +71,9 @@ Aims to build an easy-to-use, low-cost training framework based on end-to-end re
 - **[MME-CoT](https://arxiv.org/abs/2502.09621)**  
   A benchmark for evaluating chain-of-thought (CoT) reasoning in multimodal models, spanning six domains with novel metrics.
 
+- **[EnigmaEVAL](https://arxiv.org/pdf/2502.08859)**
+  A dataset derived from puzzle competitions, containing 1184 puzzles that test models' implicit knowledge synthesis and multi-step deductive reasoning, revealing current models' limitations in unstructured and lateral reasoning tasks, with state-of-the-art models achieving extremely low accuracy on these puzzles.
+
 ---
 
 ## ⚙️ System Optimization
