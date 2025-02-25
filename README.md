@@ -6,13 +6,16 @@ A curated collection of cutting-edge projects, benchmarks, and research papers d
 
 ## 📑 Table of Contents
 
-- [LLM (Large Language Model) Projects](#llm-large-language-model-projects)
-- [MLLM (Multimodal Large Language Model) Projects](#mllm-multimodal-large-language-model-projects)
-- [Benchmarks](#benchmarks)
-- [System Optimization](#system-optimization)
-- [SFT Methods](#sft-methods)
-- [Research Papers](#research-papers)
-- [About Vision2Mind](#about-vision2mind)
+- [🚀 Awesome-DeepSeek-R1-Reproduction](#-awesome-deepseek-r1-reproduction)
+  - [📑 Table of Contents](#-table-of-contents)
+  - [🤖 LLM (Large Language Model) Projects](#-llm-large-language-model-projects)
+  - [🖼️ MLLM (Multimodal Large Language Model) Projects](#️-mllm-multimodal-large-language-model-projects)
+  - [📊 Benchmarks](#-benchmarks)
+  - [⚙️ System Optimization](#️-system-optimization)
+  - [🔧 SFT Methods](#-sft-methods)
+  - [📚 Research Papers](#-research-papers)
+  - [Introduces Overthinking, a systematic evaluation framework that automatically rates overthinking behavior in large language models, focusing on detecting when models prefer their internal reasoning chain over interacting with the environment.](#introduces-overthinking-a-systematic-evaluation-framework-that-automatically-rates-overthinking-behavior-in-large-language-models-focusing-on-detecting-when-models-prefer-their-internal-reasoning-chain-over-interacting-with-the-environment)
+  - [🌟 About Vision2Mind](#-about-vision2mind)
 
 ---
 
@@ -54,6 +57,12 @@ Aims to build an easy-to-use, low-cost training framework based on end-to-end re
 
 - **[R1-Multimodal-Journey](https://github.com/FanqingM/R1-Multimodal-Journey)**  
   Explores R1-like reinforcement learning for complex multimodal tasks, focusing on training efficiency and real-world applications.
+
+- **[r1-onevision](https://yangyi-vai.notion.site/r1-onevision)**
+  A multimodal reasoning model that bridges multimodal capabilities and deep reasoning, achieving state-of-the-art performance on challenging benchmarks by using a formal language-driven visual reasoning process and Rule-based Reinforcement Learning (ongoing), and has developed a new benchmark called R1-Onevision-bench.
+
+- **[open-r1-video](https://github.com/Wang-Xiaodong1899/Open-R1-Video)**
+  A multimodal video reasoning model that extends the open-r1 framework to video understanding tasks.
 
 ---
 
