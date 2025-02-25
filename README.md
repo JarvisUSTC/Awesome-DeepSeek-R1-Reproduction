@@ -89,6 +89,9 @@ Aims to build an easy-to-use, low-cost training framework based on end-to-end re
 - **[Demystifying Long Chain-of-Thought Reasoning in LLMs](http://arxiv.org/abs/2502.03373)**  
   Investigates the emergence of long chain-of-thought reasoning, revealing key insights into supervised fine-tuning, training compute, and reward shaping.
 
+- **[Kimi k1.5: Scaling Reinforcement Learning with LLMs](https://arxiv.org/abs/2501.12599)**
+  Detailed Introduction to the Training Process of the Kimi Multimodal Inference Model.
+
 - **[LlamaV-o1: Rethinking Step-by-step Visual Reasoning in LLMs](http://arxiv.org/abs/2501.06186)**  
   Presents a framework for sequential visual reasoning, introducing benchmarks, evaluation metrics, and a novel training approach.
 
