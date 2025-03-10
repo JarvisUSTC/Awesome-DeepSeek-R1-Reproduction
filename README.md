@@ -63,6 +63,15 @@ Aims to build an easy-to-use, low-cost training framework based on end-to-end re
 - **[open-r1-video](https://github.com/Wang-Xiaodong1899/Open-R1-Video)**
   A multimodal video reasoning model that extends the open-r1 framework to video understanding tasks.
 
+- **[Seg-Zero](https://github.com/dvlab-research/Seg-Zero)**
+  Reasoning-chain guided segmentation framework via GRPO.
+
+- **[Visual Reinforcement Fine-tuning](https://arxiv.org/abs/2503.01785)**  
+  A framework for visual reinforcement learning that combines visual grounding and reinforcement learning to enhance MLLM performance in visual tasks.
+
+- **[MM-Eureka](https://github.com/ModalMinds/MM-EUREKA)**  
+  Present MM-Eureka and MM-Eureka-Zero, a series of multimodal reasoning models that successfully extend large-scale rule-based reinforcement learning to multimodal reasoning.
+  
 ---
 
 ## 📊 Benchmarks
