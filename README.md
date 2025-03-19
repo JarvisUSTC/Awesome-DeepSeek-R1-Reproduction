@@ -71,6 +71,18 @@ Aims to build an easy-to-use, low-cost training framework based on end-to-end re
 
 - **[MM-Eureka](https://github.com/ModalMinds/MM-EUREKA)**  
   Present MM-Eureka and MM-Eureka-Zero, a series of multimodal reasoning models that successfully extend large-scale rule-based reinforcement learning to multimodal reasoning.
+
+- **[LMM-R1](http://arxiv.org/abs/2503.07536)**
+  Experiments on Qwen2.5-VL-Instruct-3B, and proposes a two-stage rule-based reinforcement learning method to empower 3B LLMs with strong reasoning abilities.
+
+- **[R1-Zero's "Aha Moment" in Visual Reasoning on a 2B Non-SFT Model](http://arxiv.org/abs/2503.05132)**
+  Experiments on Qwen2-VL-Base-2B and present challenges when training on instruct model.
+
+- **[Boosting the Generalization and Reasoning of Vision Language Models with  Curriculum Reinforcement Learning](http://arxiv.org/abs/2503.07065)**
+  Proposes two approaches, Curriculum Reinforcement Learning and Rejected Sampling-based Self-improvement, to enhance the generalization and reasoning of vision language models.
+
+- **[DeepPerception: Advancing R1-like Cognitive Visual Perception in MLLMs for Knowledge-Intensive Visual Grounding](http://arxiv.org/abs/2503.12797)**
+  Proposes DeepPerception, a novel cognitive visual perception framework that enhances MLLMs' reasoning capabilities for knowledge-intensive visual grounding tasks.
   
 ---
 
