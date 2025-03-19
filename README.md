@@ -84,6 +84,8 @@ Aims to build an easy-to-use, low-cost training framework based on end-to-end re
 - **[DeepPerception: Advancing R1-like Cognitive Visual Perception in MLLMs for Knowledge-Intensive Visual Grounding](http://arxiv.org/abs/2503.12797)**
   Proposes DeepPerception, a novel cognitive visual perception framework that enhances MLLMs' reasoning capabilities for knowledge-intensive visual grounding tasks.
   
+- **[Skywork R1V: Pioneering Multimodal Reasoning with Chain-of-Thought]()**
+  Leveraging a lightweight visual projector, Skywork R1V facilitates seamless multimodal adaptation without necessitating retraining of either the foundational language model or the vision encoder.
 ---
 
 ## 📊 Benchmarks
